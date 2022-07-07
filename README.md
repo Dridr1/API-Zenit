@@ -24,6 +24,7 @@ A multiuse API firstly meant to be used with financial management for a Junior C
 * Mariana Rio [MarianaPRio](https://github.com/MarianaPRio)
 * Ana Letícia: [analeticiaa](https://github.com/analeticiaa)
 * Paulo Maciel: [paulomacieltorresfilho](https://github.com/paulomacieltorresfilho)
+* Fause Carlos: [FauseCarlos](https://github.com/FauseCarlos)
 
 ---
 
