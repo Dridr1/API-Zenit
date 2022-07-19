@@ -20,16 +20,6 @@ A multiuse API firstly meant to be used with financial management for a Junior C
 
 * Adriano Fonseca: [Dridr1](https://github.com/Dridr1)
 * Débora Caires: [Deboracaires](https://github.com/deboracaires)
-* Luis Henrique: [AgarbSpace](https://github.com/AgarbSpace)
-* Mariana Rio [MarianaPRio](https://github.com/MarianaPRio)
-* Ana Letícia: [analeticiaa](https://github.com/analeticiaa)
-* Paulo Maciel: [paulomacieltorresfilho](https://github.com/paulomacieltorresfilho)
-* Fause Carlos: [FauseCarlos](https://github.com/FauseCarlos)
-
----
-
-## Special thanks to the Operations team
-
 * Daniel Oscar
 * Gustavo Callai
 * Eduarda Leão
